@@ -5,6 +5,7 @@ A curated list of awesome esport betting sites – live, statistics and other re
 - [Awesome Esport Sites](#awesome-esport-sites)
     - [Live](#live)
     - [Statistics](#statistics)
+	- [API](#api)
     - [Other](#other)
 
 
@@ -21,6 +22,10 @@ A curated list of awesome esport betting sites – live, statistics and other re
 - [Flashscore](https://www.flashscore.com/esports/), [BetsAPI](https://betsapi.com/c/esports) in addition to live, it also has historical data on the historical meetings of the two teams in a very convenient table
 - [Aligulac](http://aligulac.com/) if you are a fan of SC2, then this site is very suitable for you, because there is all the historical data on this game, another plus is a completely open platform, there are a lot of interesting alterations of this site, for example [SC2 N1 GG](https://sc2.n1.gg/)
 - [GolGG](https://gol.gg/teams/list/season-S10/split-Spring/region-ALL/tournament-ALL/week-ALL/) if you are a fan of such a game as LoL, then I advise you to look at this site, because there is everything you need to make a decision, the guys even for a fee will show you the best heroes for the team
+
+## Api
+- [HLTV](https://github.com/gigobyte/HLTV) very cool package for development under CS GO, can work with data from HLTV and the guy who writes, very responsive.
+- [OpenDota](https://docs.opendota.com/) a very large database of Dota 2 games, both for regular players and professionals
 
 ## Other
 - [Oddsloot](https://oddsloot.com/en) the site helps you find a place where it is best to place a bet now, that is, the highest coefficient.
