@@ -23,6 +23,8 @@ A curated list of awesome esport betting sites – live, statistics and other re
 - [Aligulac](http://aligulac.com/) if you are a fan of SC2, then this site is very suitable for you, because there is all the historical data on this game, another plus is a completely open platform, there are a lot of interesting alterations of this site, for example [SC2 N1 GG](https://sc2.n1.gg/)
 - [GolGG](https://gol.gg/teams/list/season-S10/split-Spring/region-ALL/tournament-ALL/week-ALL/) if you are a fan of such a game as LoL, then I advise you to look at this site, because there is everything you need to make a decision, the guys even for a fee will show you the best heroes for the team
 - [wc3 Info](https://warcraft3.info/) site for Warcraft3 statistics/replays and other.
+- [liquipedia](https://liquipedia.net/) this is BIG wiki for esports.
+- [Magma](https://magma.gg) free bets (with prize money) and Dota 2 / CS statistics
 
 ## Api
 - [HLTV](https://github.com/gigobyte/HLTV) very cool package for development under CS GO, can work with data from HLTV and the guy who writes, very responsive.
