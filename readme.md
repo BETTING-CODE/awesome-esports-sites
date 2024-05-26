@@ -16,7 +16,8 @@ A curated list of awesome esport betting sites – live, statistics and other re
 - [Flashscore](https://www.flashscore.com/esports/) a very useful site if you want to see what games are currently being played in all esports, as well as see the current odds on teams.
 - [Obgg](http://obgg.io/) very strange but useful Chinese site with live Analytics for teams, able to show the same as track data, only for such disciplines as Lol, CS, Dota, Overwatch. They also have historical data on meetings.
 - [BetsAPI](https://betsapi.com/c/esports) the site is useful for those who try to watch the fluctuations of odds on various bookmakers.
-
+- [Exchmarket](https://exchmarket.com/) Best platform for Indian users 100% welcome bonus.
+- [SatSport](https://onlinecasinoexchange.com/satsport/) Sports Betting, Casino trustred platform with millions of real current users.
 ## Statistics
 - [Game Tournaments](https://game-tournaments.com/) the site allows you to watch historical meetings between teams, it also has a very convenient [link](https://game-tournaments.com/csgo/history), it is also able to show the previous coefficients that were in the games, and again it will help for your mathematical models.
 - [Flashscore](https://www.flashscore.com/esports/), [BetsAPI](https://betsapi.com/c/esports) in addition to live, it also has historical data on the historical meetings of the two teams in a very convenient table
