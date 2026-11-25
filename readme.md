@@ -34,3 +34,4 @@ A curated list of awesome esport betting sites – live, statistics and other re
 - [Oddsloot](https://oddsloot.com/en) the site helps you find a place where it is best to place a bet now, that is, the highest coefficient.
 - [DatDota](http://datdota.com/), [DotaBuff](https://www.dotabuff.com/) a very multi-functional site where you can see heroes and their statistics, see win rates and many many many things.
 - [Eventvods](https://eventvods.com/) just a fun site with videos and highlights
+- [Sports Odds API](https://apify.com/publicrecords/sports-odds-api) live odds from 24 Kambi-powered sportsbooks with best price per outcome (Apify Actor, free tier).
